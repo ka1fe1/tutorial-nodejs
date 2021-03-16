@@ -1,0 +1,15 @@
+{
+  "platform": "iris-network",
+  "denom": "peg0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+  "symnol": "bnb",
+  "scale": 8,
+  "coin": "binancecoin",
+  "name": "Binance Coin",
+  "protocal": "peg",
+  "traces": [
+    {
+      "platform": "ethereum",
+      "denom": "bnb"
+    }
+  ]
+}
